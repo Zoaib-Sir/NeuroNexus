@@ -1,5 +1,5 @@
 # NeuroNexus
-Welcome to this NeuNexus repository! Here, you'll find two intriguing projects showcasing diverse applications of machine learning and data analysis.
+Welcome to my NeuroNexus repository! Here, you'll find two intriguing projects showcasing diverse applications of machine learning and data analysis.
 
 ### Fraud Detection using SVM
 Discover a sophisticated fraud detection system implemented using a Support Vector Machine (SVM). The script, residing in the 'Fraud_Detection' folder, leverages transaction data from 'fraudTrain.csv' and 'fraudTest.csv' to train an SVM model for identifying potential fraudulent activities. The code involves data preprocessing, label encoding of categorical variables, and model training, providing a glimpse into the world of anomaly detection in financial transactions.
